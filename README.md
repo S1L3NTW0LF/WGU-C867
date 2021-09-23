@@ -3,7 +3,7 @@
 This was my project for school. 
 
 The purpose of the project was to create a program that would integrate data that was given in the form of an array containing strings into a new system. 
-In the new system the data was required to be parsed into a Student objects which would then be placed into an array that could be assessed using member functions. 
+In the new system the data was required to be parsed into a Student objects which would then be placed into an array that could be accessed using member functions. 
 
 To do this required: 
 i. STUDENT class
