@@ -14,6 +14,7 @@ i. STUDENT class
 ii. ROSTER class 
 - in this there is a vector array that stores student objects
 - there is a member function that parses data, stores it in an array and then uses the array as arguements for the constructor for the Student class. 
+- contains other member functions used to access student data 
 
 
 
